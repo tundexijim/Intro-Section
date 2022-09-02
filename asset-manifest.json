@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Intro-Section/static/css/main.35d5a20b.css",
+    "main.css": "/Intro-Section/static/css/main.60017c85.css",
     "main.js": "/Intro-Section/static/js/main.0b0742a3.js",
     "static/media/image-hero-desktop.png": "/Intro-Section/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/client-databiz.svg": "/Intro-Section/static/media/client-databiz.d1e7955f847e089183caf61eb54feb51.svg",
@@ -17,11 +17,11 @@
     "static/media/icon-menu.svg": "/Intro-Section/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
     "static/media/icon-arrow-down.svg": "/Intro-Section/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
     "static/media/icon-arrow-up.svg": "/Intro-Section/static/media/icon-arrow-up.01861a1152dfab5f1070228d306352f4.svg",
-    "main.35d5a20b.css.map": "/Intro-Section/static/css/main.35d5a20b.css.map",
+    "main.60017c85.css.map": "/Intro-Section/static/css/main.60017c85.css.map",
     "main.0b0742a3.js.map": "/Intro-Section/static/js/main.0b0742a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.35d5a20b.css",
+    "static/css/main.60017c85.css",
     "static/js/main.0b0742a3.js"
   ]
 }
