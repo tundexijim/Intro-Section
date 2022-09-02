@@ -135,7 +135,7 @@ width: 74%;
     border: 1px solid black;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 375px) {
     #root{
         overflow: hidden;
         position: relative;
@@ -144,26 +144,27 @@ width: 74%;
         gap: 1rem;
         flex-direction: column-reverse;
         text-align: center;
+        padding: 2rem 0;
     }
     .container__main img{
-        width: 25rem;
+        width: 22rem;
     }
     .container__main h1{
         width: 100%;
         margin-top: 3rem;
-        font-size: 40px;
+        font-size: 39px;
         margin-bottom: 2rem;
     }
     .container__main p{
         margin: 2rem auto;
+        width: 90%;
     }
     .container__main .dataimg{
         justify-content: center;
         width: 100%;
-        margin-bottom: 2rem;
     }
     .container__main .dataimg img{
-        width: 5rem;
+        width: 4rem;
     }
     .navigation{
        padding: 2rem 1rem;
@@ -173,7 +174,7 @@ width: 74%;
     }
     .navigation .navlog {
         height: 160vh;
-        width: 60%;
+        width: 65%;
         background-color: white;
         flex-direction: column;
         gap: 5rem;
@@ -210,7 +211,7 @@ width: 74%;
 
     }
     .navigation .regbtn{
-        padding: 0.5rem 5rem;
+        padding: 0.5rem 4rem;
     }
     .dropdown, .dropdown2{
         position: relative;
